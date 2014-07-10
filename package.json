@@ -1,0 +1,10 @@
+{
+  "name": "pushServer",
+  "version": "0.0.1",
+  "description": "",
+  "author": "zcfrank1st",
+  "license": "MIT",
+  "dependencies": {
+    "redis": "^0.10.3"
+  }
+}
